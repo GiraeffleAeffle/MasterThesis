@@ -1,0 +1,16 @@
+{
+	"SCMembers": ["0x9690e4564DE716d2c0C5ec4C66bD304ca2b9D933", "0x4280c6Ef5851D6c2AA00f2344929a3AF21c05EEF", "0x62851803D86dE4BE12651750604044Fc9B2A9589", "0x293B3F0285F45D86E7F03dc81fc22031Ee10C838", "0xBdD949173df8E7F472f51cd0cf450AB7F075A78c"],
+	"Input": [{
+		"Stahl": -0.5,
+		"SI": "kg"
+	}],
+	"Output": [{
+			"Dampf": 1,
+			"SI": "MJ"
+		},
+		{
+			"CO2": 4,
+			"SI": "kg/MJ Dampf"
+		}
+	]
+}
